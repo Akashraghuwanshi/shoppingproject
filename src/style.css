@@ -60,6 +60,13 @@
     background-color: var(--primary-color);
     border: unset;
   }
+  .cart-message{
+    background-color: aliceblue;
+    color:brown;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5rem;
+    font-weight: 900;
+  }
   
   /* product.js Css */
   
@@ -78,6 +85,7 @@
     flex-wrap: wrap;
     
   }
+
 
   @media screen and (max-width: 450px){
 
